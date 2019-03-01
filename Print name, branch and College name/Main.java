@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+  printf("My name is Alankrita Tiwari.");
+  printf("\nI am pursuing Mechanical Engineering from");
+  printf(" XYZ College of Engineering and Technology.");
+
+  return 0;
+}
